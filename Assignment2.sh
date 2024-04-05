@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 echo "server setup..."
 
 # network settings and /etc/hosts
