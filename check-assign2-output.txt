@@ -1,0 +1,15 @@
+---Host/Student info----
+
+Running on Fri Apr  5 02:16:15 UTC 2024
+Run by root - () on host
+ Static hostname: server2
+      Machine ID: abf9f2718842416e9767709a5cb0df7e
+Operating System: Ubuntu 22.04.4 LTS
+e6dfec9ad4ca4733ceb9ff3a4c07b59f  ./check-assign2-script.sh - e6dfec9ad4ca4733ceb9ff3a4c07b59f  -
+------------------------
+
+---Start of Assignment2.sh Check------
+---Running makecontainers.sh----------
+Deleting any existing target containers
+Deleting any existing openwrt container
+Checking for sudo

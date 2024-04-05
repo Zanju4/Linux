@@ -1,0 +1,1 @@
+$0: Do not run this script using sudo, it will use sudo when it needs to
